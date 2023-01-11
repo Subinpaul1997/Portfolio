@@ -1,0 +1,29 @@
+.skillContainer{
+    margin-top: 35 px;
+    height: 300px;
+}
+
+.headContainer{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    
+}
+
+.heading{
+    color: white; 
+    padding-left: 90px;
+    font-family: sans-serif;
+}
+
+.skillSet{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 40px;
+    
+}
+
+.icon{
+    background-color: #425F57;
+}

@@ -1,0 +1,44 @@
+
+.cardContainer{
+  display: flex;
+  justify-content: space-around; 
+  width: 100%;
+  margin-top: 30px;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    width: 150px;
+    height: 150px;
+    background-color: #425F57;
+    box-shadow: 30px 30px 20px 10px  rgba(0,0,0,0.1);
+    border-radius: 10PX;
+}
+.logoName{
+  background-color: #425F57;
+  height: 90px;
+}
+
+.logo{
+  color:white; 
+  font-size: 40px;  
+  background-color: #425F57;
+}
+
+.skillName{
+    display: flex;
+    justify-content: center;
+    height: 55px;
+    color: white;
+    background-color: #425F57;
+    margin-top: 90px;
+
+}
+
+.skill{
+  background-color: #425F57;
+  font-size: 20PX;
+}

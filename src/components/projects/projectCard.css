@@ -1,0 +1,44 @@
+.projectCard{
+    display:flex ;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.projectImage{
+    width: 30%;
+    height: 330px;
+}
+
+.projectPic{
+    height: 310px;
+    width: 550px;
+    border-radius: 5px;
+}
+
+.projectDetails{
+    color: white;
+    margin-top: 0px;
+}
+
+.projectName{
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.projectAbout{
+    font-size: 22px;
+}
+
+
+.liveSite{
+    color: white;
+    background-color: #425F57;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.siteButton{
+    background-color: #425F57;
+    border-color: grey;
+    border-radius: 5px;
+}

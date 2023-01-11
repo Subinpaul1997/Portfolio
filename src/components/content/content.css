@@ -1,0 +1,39 @@
+.detailsContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 55px;
+    margin-bottom: 20px;
+}
+
+.imageContainer{
+ width: 48%;
+ height: 600px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+.profileImage{
+   margin-left: 140px;
+   height: 530px;
+   border-radius: 10px ;
+   box-shadow: -30px 30px 20px   rgba(0,0,0,0.3);
+ 
+  
+}
+
+.details{
+    display: flex;
+    align-content: center;
+    width: 70%;
+    height: 400px;
+    
+}
+
+.info{
+  color: white;  
+  padding-top: 120px;
+  padding-left: 140px;
+  font-family: sans-serif;
+  font-size: 50px;
+}

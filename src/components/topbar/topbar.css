@@ -1,0 +1,23 @@
+
+.topbarContainer{
+  width: 100%;
+  display: flex;
+  height: 80px;
+  align-items: center;
+  
+  
+}
+
+.items{
+    display: flex;
+    justify-content:space-around;
+    width: 850px;
+    color: white;
+    font-size: 25px;
+    font-weight: 550;
+}
+
+.items :hover{
+  text-decoration: underline;
+  color: black;
+}

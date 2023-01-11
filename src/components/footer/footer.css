@@ -1,0 +1,35 @@
+.contactContainer{
+    width: 100%;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.headContainer{
+    display: flex;
+    align-content: center;
+    height: 60px;
+    width: 100%;
+    margin-left: 15px;
+}
+
+.headingStyle{
+    color: white;
+    font-family: sans-serif;
+    padding-left: 75px;
+}
+
+.typeofContacts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 75px;
+    margin-bottom: 5px;
+}
+.con{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+    color: white;
+    font-size: 40px;
+    background-color:  #3D5656;
+}

@@ -1,0 +1,36 @@
+.ccardContainer{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.modelogo{
+    color: white;
+    font-size: 25px;
+}
+
+.modeName{
+    color: white;
+    font-size: 23px;
+    padding-left: 10px;
+}
+
+.contactInfo{
+    color: white;
+    font-size: 20px;
+}
+
+
+.detail{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.mode{
+    padding-bottom: 60px;
+}
+
+
+
+
